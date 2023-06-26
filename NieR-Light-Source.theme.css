@@ -6,7 +6,7 @@
  * ~https://www.deviantart.com/juliodrai ||
  * Thanks to GOmonkeymanGO for letting me use some of their code
  * ~https://github.com/ChaseIngebritson/YoRHa-Discord-Theme ||
- * @website https://github.com/AccraZed/YoRHA-UI-BetterDiscord
+ * @website https://github.com/AccraZed/yorha-mod
  * @author Accrazed#2710
  * @invite X4nBPCa
  * @authorId 153562159161278473
@@ -20,10 +20,10 @@
  * YMM   ""`   "YUMMMMMP" "YUMMMMMP"MMMM   "W" YMM   ""`  `""*UMM  """"YUMMMMMMMP"`
  */
 
-@import url('https://buns.gay/YoRHA-UI-BetterDiscord/font/stylesheet.css'); /* Font */
-@import url('https://buns.gay/YoRHA-UI-BetterDiscord/NieR-Cursor.css'); /* Cursor */
-@import url('https://buns.gay/YoRHA-UI-BetterDiscord/NieR-Import.theme.css'); /* Main File */
-@import url('https://buns.gay/YoRHA-UI-BetterDiscord/LightImport.theme.css'); /* Light Part of Theme */
+@import url('https://team-obsidian.github.io/yorha-mod/font/stylesheet.css'); /* Font */
+@import url('https://team-obsidian.github.io/yorha-mod/NieR-Cursor.css'); /* Cursor */
+@import url('https://team-obsidian.github.io/yorha-mod/NieR-Import.theme.css'); /* Main File */
+@import url('https://team-obsidian.github.io/yorha-mod/LightImport.theme.css'); /* Light Part of Theme */
 
 /* GLOBAL VARIABLES */
 :root {
