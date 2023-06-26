@@ -25,9 +25,10 @@
 }
 
 @font-face {
-    font-family: 'sce-ps3_rodin_latinregular';
-    src: url('sce-ps3-rd-r-latin-webfont.woff2') format('woff2'),
-        url('sce-ps3-rd-r-latin-webfont.woff') format('woff');
+    font-family: 'truth_and_idealsnormal';
+    src: url('truth-ideals-webfont.woff2') format('woff2'),
+         url('truth-ideals-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
